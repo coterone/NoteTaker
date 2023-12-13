@@ -5,7 +5,7 @@ An interface that enables users to generate, remove, and review their notes, sho
 
 ## Table of Contents
 * [Installation](#installation)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Usage](#usage)
 * [Testing](#testing)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -13,8 +13,12 @@ An interface that enables users to generate, remove, and review their notes, sho
 ## Installation
 Clone repo => install dependencies | Check out the deployed application here: 
 
-## How to Use This Application:
+## Usage
 
+The following images show the web application's appearance and functionality:
+
+![screenshot](./images/screenshot1.png)
+![screenshot](./images/screenshot2.png)
 
 ## Testing
 None
